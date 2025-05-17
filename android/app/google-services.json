@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634110960305",
+    "project_id": "awesome-notif-374e4",
+    "storage_bucket": "awesome-notif-374e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634110960305:android:7515eab4de0a6529023890",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdmj0BaPcQX2iplSBaPoqU_G7KnqKWPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
