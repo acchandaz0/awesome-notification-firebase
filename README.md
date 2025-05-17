@@ -1,4 +1,4 @@
-# myapp
+# awesome-notification-firebase
 
 A new Flutter project.
 
